@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Reeses",
+      "price": 15.99,
+      "imgUrl": "/imgs/reeses.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Multipack",
+      "price": 41.99,
+      "imgUrl": "/imgs/multipack.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Snickers",
+      "price": 14.00,
+      "imgUrl": "/imgs/snickers.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Twix",
+      "price": 10.05,
+      "imgUrl": "/imgs/twix.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hershey",
+      "price": 18.99,
+      "imgUrl": "/imgs/hershey.jpg"
+    },
+    {
+      "id": 6,
+      "name": "mini M&M's",
+      "price": 24.99,
+      "imgUrl": "/imgs/mini2.jpg"
+    }
+  ]
