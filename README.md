@@ -1,5 +1,5 @@
 # Candy-Store
-A candy store shopping application 
+A candy store landing page created to learn more about Typescript and React.
 
 ## Tech used:
 
