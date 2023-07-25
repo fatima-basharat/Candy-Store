@@ -1,6 +1,10 @@
 # Candy-Store
 A candy store landing page created to learn more about Typescript and React.
 
+<img width="1440" alt="candystore" src="https://github.com/fatima-basharat/Candy-Store/assets/117535181/cf2bc1bb-6129-48f7-9567-e1fa22e2f5e0">
+
+**Link to project:** https://candy-store-page.netlify.app/store <br>
+
 ## Tech used:
 
 <div style="display: flex; flex-direction: row;" align=left >
